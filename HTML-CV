@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>My CV</title>
+        <meta name="description" content="My first HTML CV">
+        <meta name="author" content="Zary-ox"> 
+    </head>
+
+    <body>
+        <div id="Contact info">
+            <h1>Zary-ox</h1>
+            <h3>Student</h3>
+            <!--I don't really want to dox myself lol so fake values given-->
+            <h3>123 West St<br>
+            Brownsville, MT 06542<br>
+            (683) 475-2143<br>
+            random.email@gmail.com</h3> 
+        </div>
+        
+        <div id="skills">
+            <h3>Skills</h3>
+            <p><strong>HTML, Python, Communication, Teamwork</strong></p>
+        </div>
+
+        <div id="Education">
+            <h3>Education</h3>
+            <h3>It's a college - B.S. Cybersecurity<br>
+            September 2020 to June 2024</h3>
+
+        </div>
+
+        <div id="Expirence">
+            <h3>Expirence</h3>
+            <h3>Microsoft, remote - Cyber Anyalyst<br>
+            July 2024 - Present</h3>
+
+            <p>Skills: Communication, Python, Leadership</p>
+        </div>
+
+        <div id="Socials">
+            <h3>Across the Internet</h3>
+            <a href="https://github.com/Zary-ox">Github</a>
+        </div>
+
+    </body>
+
+
+</html>
